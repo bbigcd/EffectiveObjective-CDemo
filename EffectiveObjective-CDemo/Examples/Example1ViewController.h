@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Example1ViewController.h
 //  EffectiveObjective-CDemo
 //
 //  Created by bbigcd on 16/7/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface Example1ViewController : UIViewController
 
 @end
-
